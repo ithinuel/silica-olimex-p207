@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["ithinuel <ithinuel@gmail.com>"]
 
 [dependencies]
+silica-stm32f2xx = { path = "../silica-stm32f2xx" }
 silica-stm32f207 = { path = "../silica-stm32f207" }
